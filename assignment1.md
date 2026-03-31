@@ -4,7 +4,7 @@
 
 - **IP Address:** `143.110.224.135`
 - **Username:** `root`
-- **Password:** `lux@123Lux`
+- **Password:**
 
 ### SSH Login Command
 ```bash
